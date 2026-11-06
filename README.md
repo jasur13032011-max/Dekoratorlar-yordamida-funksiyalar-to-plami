@@ -1,0 +1,1 @@
+# Dekoratorlar-yordamida-funksiyalar-to-plami
